@@ -1,9 +1,8 @@
 .navbar {
   padding: 0px 0px;
   border: none;
-  
-
-}
+  background: -webkit-linear-gradient(#ba6d7c, #090909);
+  }
 
 body {
   font-family: Arial, sans-serif;
