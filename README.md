@@ -35,3 +35,13 @@ As a user, I want the images to easily be viewed and organized.
 
 
 Wireframe:
+![Wireframe](<project02_pics/Wireframe_search_engine.png>)
+
+
+
+Images:
+![Images](<project02_pics/robot01.png>)
+
+Website:
+![Website](<project02_pics/Gify_search_website01.png>)
+![Website](<project02_pics/Gify_search_website.png>)
