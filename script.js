@@ -15,7 +15,7 @@ async function displayData(searchTerm) {
         data.data.forEach((element) => {
           const newImage = document.createElement("img");
           newImage.src = element.images.original.url;
-          newImage.className = "giphy-img";
+          newImage.className = "giphy_img";
           section_image.appendChild(newImage);
         });
       } catch (error) {
