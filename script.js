@@ -1,6 +1,6 @@
 async function displayData() {
     const giphyApi = "PjvdqKiTPO2mLJwv0Z5YBjdHulb8coGn";
-    const endPintGet = 'https://api.giphy.com/v1/gifs/search?api_key=PjvdqKiTPO2mLJwv0Z5YBjdHulb8coGn&q=robot&limit=28&offset=0&rating=g&lang=en&bundle=messaging_non_clips';
+    const endPintGet = 'https://api.giphy.com/v1/gifs/search?api_key=PjvdqKiTPO2mLJwv0Z5YBjdHulb8coGn&q=robot&limit=27&offset=0&rating=g&lang=en&bundle=messaging_non_clips';
     try {
         const response = await fetch (endPintGet);
         if (!response.ok) {
