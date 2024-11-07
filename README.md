@@ -1,18 +1,18 @@
-Gif/Website Search Engine
+# Gif/Website Search Engine
 
 
 Website builds on HTML, CSS, and JavaScript. I am creating a GIFs search engine using an API. This project will require a search bar to
 search for Gifs.
 
 
-Technology:
+## Technology:
 
 .HTML
 .CSS
 .JS
 
 
-Ideas:
+## Ideas:
 
 Interactive navbar that has a Gif image.
 
@@ -21,7 +21,7 @@ Menu with options and images that are clickable.
 Search results with an enter button and ability to click the search button.
 
 
-User Stories:
+## User Stories:
 
 As a user, I want to to copy or paste Gifs that can be shared.
 
@@ -34,15 +34,15 @@ As a user, I want to see and view all of the Gif options in rows or columns.
 As a user, I want the images to easily be viewed and organized.
 
 
-Wireframe:
+## Wireframe:
 ![Wireframe](<project02_pics/Wireframe_search_engine.png>)
 
 
 
-Images:
+## Images:
 ![Images](<project02_pics/robot01.png>)
 
-Website:
+## Website:
 ![Website](<project02_pics/Gify_search_website01.png>)
 ![Website](<project02_pics/Gify_search_website.png>)
 ![Website](<project02_pics/Gify_search_website_aboutus01.png>)
