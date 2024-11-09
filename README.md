@@ -7,31 +7,31 @@ search for Gifs.
 
 ## Technology:
 
-.HTML
-.CSS
-.JS
+-HTML
+-CSS
+-JS
 
 
 ## Ideas:
 
-Interactive navbar that has a Gif image.
+-Interactive navbar that has a Gif image.
 
-Menu with options and images that are clickable.
+-Menu with options and images that are clickable.
 
-Search results with an enter button and ability to click the search button.
+-Search results with an enter button and ability to click the search button.
 
 
 ## User Stories:
 
-As a user, I want to to copy or paste Gifs that can be shared.
+-As a user, I want to to copy or paste Gifs that can be shared.
 
-As a user, I want to search Gifs by entering a keyword or phrase.
+-As a user, I want to search Gifs by entering a keyword or phrase.
 
-As a user, I want Gif options when I enter keywords or phrases.
+-As a user, I want Gif options when I enter keywords or phrases.
 
-As a user, I want to see and view all of the Gif options in rows or columns.
+-As a user, I want to see and view all of the Gif options in rows or columns.
 
-As a user, I want the images to easily be viewed and organized.
+-As a user, I want the images to easily be viewed and organized.
 
 
 ## Wireframe:
